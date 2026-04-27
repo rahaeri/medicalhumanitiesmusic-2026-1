@@ -14,7 +14,7 @@ disability negatively; instead, it emphasizes the pure sense of liberation and d
 repetitive, lively rhythm and hopeful melody audibly express Cho-won’s inner world, where he enjoys his own freedom beyond limitations, leading the 
 audience to view disability not as something to be overcome but as a unique and meaningful way of life.
 
-#말아톤
+# 말아톤
 
 영화 말아톤 (2005)은 자폐성 장애를 가진 청년 ‘초원’이 마라톤 서브쓰리라는 목표를 향해 달려가며 세상과 소통하고 진정한 자아를 찾아가는 과정을 그린 작품이다. 이 영화
 의 음악 달려라 초원 (Run, Cho-won)은 김준성이 작곡하였으며, 장애를 부정적으로 묘사하기보다 주인공이 달릴 때 느끼는 순수한 해방감과 역동적인 생명력을 강조한다. 특
