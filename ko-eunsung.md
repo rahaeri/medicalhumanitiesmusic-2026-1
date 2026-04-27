@@ -2,8 +2,8 @@
 Title: Marathon
 Year: 2005
 Genre: Film
-Disease: autistic person
-ICD: 23
+Disease: Autism Spectrum Disorder
+ICD: 6A02
 ---
 
 # Marathon
